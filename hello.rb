@@ -6,3 +6,4 @@ name = gets
 
 puts "hello, #{name}! You are #{word}!"
 puts "teacher says hello"
+puts "
